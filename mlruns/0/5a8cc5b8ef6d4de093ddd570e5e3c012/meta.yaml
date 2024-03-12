@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5a8cc5b8ef6d4de093ddd570e5e3c012/artifacts
+end_time: 1710219455540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a8cc5b8ef6d4de093ddd570e5e3c012
+run_name: colorful-sloth-859
+run_uuid: 5a8cc5b8ef6d4de093ddd570e5e3c012
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710219447317
+status: 3
+tags: []
+user_id: abi

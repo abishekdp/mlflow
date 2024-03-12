@@ -1,0 +1,6 @@
+artifact_location: file:///Users/abi/PycharmProjects/ARIMA/mlruns/485072335665249777
+creation_time: 1710218960018
+experiment_id: '485072335665249777'
+last_update_time: 1710218960018
+lifecycle_stage: active
+name: Prophet_AirPassengers_Forecasting

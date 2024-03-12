@@ -1,0 +1,15 @@
+artifact_uri: /Users/abi/PycharmProjects/ARIMA/your_mlflow_tracking_uri/0/e83c5d1992594f248ae6d588b32241ac/artifacts
+end_time: 1710219287773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e83c5d1992594f248ae6d588b32241ac
+run_name: unleashed-hare-801
+run_uuid: e83c5d1992594f248ae6d588b32241ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710219282424
+status: 3
+tags: []
+user_id: abi

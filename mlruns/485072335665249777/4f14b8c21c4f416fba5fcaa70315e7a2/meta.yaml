@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/abi/PycharmProjects/ARIMA/mlruns/485072335665249777/4f14b8c21c4f416fba5fcaa70315e7a2/artifacts
+end_time: 1710218961069
+entry_point_name: ''
+experiment_id: '485072335665249777'
+lifecycle_stage: active
+run_id: 4f14b8c21c4f416fba5fcaa70315e7a2
+run_name: sedate-ram-720
+run_uuid: 4f14b8c21c4f416fba5fcaa70315e7a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710218960271
+status: 3
+tags: []
+user_id: abi

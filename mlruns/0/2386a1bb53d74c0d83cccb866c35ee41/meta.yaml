@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2386a1bb53d74c0d83cccb866c35ee41/artifacts
+end_time: 1710222186086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2386a1bb53d74c0d83cccb866c35ee41
+run_name: fortunate-ape-394
+run_uuid: 2386a1bb53d74c0d83cccb866c35ee41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710222186053
+status: 4
+tags: []
+user_id: abi

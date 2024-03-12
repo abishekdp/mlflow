@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0709cdeb432f45a0bec12b2b49af6662/artifacts
+end_time: 1710220311151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0709cdeb432f45a0bec12b2b49af6662
+run_name: secretive-bear-899
+run_uuid: 0709cdeb432f45a0bec12b2b49af6662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710220070693
+status: 4
+tags: []
+user_id: abi

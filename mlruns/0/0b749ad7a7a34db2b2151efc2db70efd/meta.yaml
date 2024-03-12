@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0b749ad7a7a34db2b2151efc2db70efd/artifacts
+end_time: 1710222325502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b749ad7a7a34db2b2151efc2db70efd
+run_name: brawny-quail-617
+run_uuid: 0b749ad7a7a34db2b2151efc2db70efd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710222325282
+status: 4
+tags: []
+user_id: abi

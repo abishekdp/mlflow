@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9986abb97088456d901b3acd50156c37/artifacts
+end_time: 1710222476950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9986abb97088456d901b3acd50156c37
+run_name: capable-ape-226
+run_uuid: 9986abb97088456d901b3acd50156c37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710222476747
+status: 4
+tags: []
+user_id: abi

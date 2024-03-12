@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/abi/PycharmProjects/ARIMA/mlruns/485072335665249777/e773953158e8479492a307f69ec09378/artifacts
+end_time: 1710219089956
+entry_point_name: ''
+experiment_id: '485072335665249777'
+lifecycle_stage: active
+run_id: e773953158e8479492a307f69ec09378
+run_name: gaudy-vole-865
+run_uuid: e773953158e8479492a307f69ec09378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710219089164
+status: 3
+tags: []
+user_id: abi

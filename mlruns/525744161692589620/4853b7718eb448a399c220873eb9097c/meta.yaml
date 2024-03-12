@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/abi/PycharmProjects/ARIMA/mlruns/525744161692589620/4853b7718eb448a399c220873eb9097c/artifacts
+end_time: 1710218083147
+entry_point_name: ''
+experiment_id: '525744161692589620'
+lifecycle_stage: active
+run_id: 4853b7718eb448a399c220873eb9097c
+run_name: nebulous-fowl-204
+run_uuid: 4853b7718eb448a399c220873eb9097c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710218000085
+status: 4
+tags: []
+user_id: abi

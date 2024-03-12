@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b71c4df2fa3d42e0bb0b3ae3337a2b7f/artifacts
+end_time: 1710220734621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b71c4df2fa3d42e0bb0b3ae3337a2b7f
+run_name: enchanting-worm-958
+run_uuid: b71c4df2fa3d42e0bb0b3ae3337a2b7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710220490018
+status: 4
+tags: []
+user_id: abi

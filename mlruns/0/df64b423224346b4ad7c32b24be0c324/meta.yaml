@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/df64b423224346b4ad7c32b24be0c324/artifacts
+end_time: 1710219981372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df64b423224346b4ad7c32b24be0c324
+run_name: useful-crane-759
+run_uuid: df64b423224346b4ad7c32b24be0c324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710219981328
+status: 4
+tags: []
+user_id: abi

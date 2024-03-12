@@ -23,6 +23,7 @@ def preprocess_data(df):
     """Preprocess the dataset."""
     df.columns = ['ds', 'y']
     df['ds'] = to_datetime(df['ds'])
+    df['y'] = df['y'].astype(float)  # Convert 'y' column to float64
     return df
 
 
@@ -40,7 +41,7 @@ def train_and_evaluate_model(df):
     metrics_raw = cross_validation(
         model=model,
         horizon="365 days",
-        period="180 days",
+        period="60 days",  # Adjusted period to reduce warnings
         initial="710 days",
         parallel="threads",
         disable_tqdm=True,
@@ -52,8 +53,10 @@ def train_and_evaluate_model(df):
     predictions = model.predict(model.make_future_dataframe(30))
     signature = infer_signature(train, predictions)
 
-    return model, predictions, metrics, signature
+    remote_server_uri = "https://dagshub.com/abishekdp/mlflow.mlflow"
+    mlflow.set_tracking_uri(remote_server_uri)
 
+    return model, predictions, metrics, signature
 
 
 def log_mlflow(run_name, path, df, model, predictions, metrics, signature):
@@ -121,3 +124,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

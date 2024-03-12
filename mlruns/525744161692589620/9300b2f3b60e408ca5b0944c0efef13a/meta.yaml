@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/abi/PycharmProjects/ARIMA/mlruns/525744161692589620/9300b2f3b60e408ca5b0944c0efef13a/artifacts
+end_time: 1710217973431
+entry_point_name: ''
+experiment_id: '525744161692589620'
+lifecycle_stage: active
+run_id: 9300b2f3b60e408ca5b0944c0efef13a
+run_name: glamorous-jay-761
+run_uuid: 9300b2f3b60e408ca5b0944c0efef13a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710217972901
+status: 4
+tags: []
+user_id: abi

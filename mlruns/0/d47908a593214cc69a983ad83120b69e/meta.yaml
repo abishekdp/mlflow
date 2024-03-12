@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d47908a593214cc69a983ad83120b69e/artifacts
+end_time: 1710220047940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d47908a593214cc69a983ad83120b69e
+run_name: defiant-fowl-927
+run_uuid: d47908a593214cc69a983ad83120b69e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710220047897
+status: 4
+tags: []
+user_id: abi

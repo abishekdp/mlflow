@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4d68f8f231e74ae6b949e85e7b8697d9/artifacts
+end_time: 1710222440411
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d68f8f231e74ae6b949e85e7b8697d9
+run_name: delightful-skink-645
+run_uuid: 4d68f8f231e74ae6b949e85e7b8697d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710222440100
+status: 4
+tags: []
+user_id: abi

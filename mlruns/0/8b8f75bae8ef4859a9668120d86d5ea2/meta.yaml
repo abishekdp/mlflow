@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8b8f75bae8ef4859a9668120d86d5ea2/artifacts
+end_time: 1710222308600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b8f75bae8ef4859a9668120d86d5ea2
+run_name: powerful-midge-623
+run_uuid: 8b8f75bae8ef4859a9668120d86d5ea2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710222308371
+status: 4
+tags: []
+user_id: abi

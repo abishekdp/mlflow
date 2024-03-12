@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7a9eed367be741f9b5241e825e2615a4/artifacts
+end_time: 1710219573211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a9eed367be741f9b5241e825e2615a4
+run_name: Prophet_Model
+run_uuid: 7a9eed367be741f9b5241e825e2615a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710219571741
+status: 4
+tags: []
+user_id: abi
